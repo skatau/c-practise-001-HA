@@ -1,3 +1,23 @@
+//
+//  skatau.cpp
+//  C++ practise
+//
+//  Created by Edward on 30/6/2021.
+//
+
+#include <stdio.h>
+
+//entry point from "main(){
+int main() {
+//"" is for quoting a setence
+    printf ("H   H   A\nH   H  A A  \nHHHHH AAAAA\nH   H A    A\n");
+    
+//;i sthe full stop of a line
+    return 0;
+}
+//{} is a paragraph of the whole code
+
+
 MIT License
 
 Copyright (c) 2021 skatau
